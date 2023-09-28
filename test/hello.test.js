@@ -13,7 +13,7 @@ test("should say hello to given name", function () {
 
 test("should say 'Hello World!' when no name is provided", function () {
     // setup
-    const expected = "Hello World";
+    const expected = "Hello World!";
 
     // execute
     const result = hello();
