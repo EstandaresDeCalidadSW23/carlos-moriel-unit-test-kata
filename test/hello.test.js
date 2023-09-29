@@ -22,7 +22,7 @@ test("should say 'Hello World!' when no name is provided", function () {
     expect(result).toEqual(expected);
 });
 
-test("should say hello to given name", function () {
+test("should say hello to other name", function () {
     // setup
     const name = "Carlos";
 
